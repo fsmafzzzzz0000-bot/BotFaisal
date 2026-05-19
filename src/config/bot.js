@@ -3,9 +3,9 @@ import { logger } from '../utils/logger.js';
 
 export const botConfig = {
   // =========================
-  // BOT PRESENCE (what users see under the bot name)
+  // BOT PRESENCE (حبيت فيصل مسويني اموت عليه)
   // =========================
-  // `status` options:
+  // `حالات البوت:
   // - "online"    = green dot
   // - "idle"      = yellow moon
   // - "dnd"       = red do-not-disturb
